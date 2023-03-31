@@ -1,3 +1,3 @@
 import sys 
-sys.path.append('./1')
-import ex2
+sys.path.append('./2')
+import ex4
